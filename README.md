@@ -76,9 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/vinaayy06/Leetcode/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/vinaayy06/Leetcode/tree/master/0149-max-points-on-a-line) |
 ## Geometry
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/vinaayy06/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/vinaayy06/Leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
