@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vinaayy06/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vinaayy06/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/vinaayy06/Leetcode/tree/master/0015-3sum) |
+| [0041-first-missing-positive](https://github.com/vinaayy06/Leetcode/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vinaayy06/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/vinaayy06/Leetcode/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/vinaayy06/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinaayy06/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/vinaayy06/Leetcode/tree/master/0041-first-missing-positive) |
 | [0133-clone-graph](https://github.com/vinaayy06/Leetcode/tree/master/0133-clone-graph) |
 | [0149-max-points-on-a-line](https://github.com/vinaayy06/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vinaayy06/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
