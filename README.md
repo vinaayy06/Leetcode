@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vinaayy06/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/vinaayy06/Leetcode/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/vinaayy06/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vinaayy06/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0283-move-zeroes](https://github.com/vinaayy06/Leetcode/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vinaayy06/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vinaayy06/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vinaayy06/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vinaayy06/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 <!---LeetCode Topics End-->
