@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/vinaayy06/Leetcode/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/vinaayy06/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vinaayy06/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0220-contains-duplicate-iii](https://github.com/vinaayy06/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0283-move-zeroes](https://github.com/vinaayy06/Leetcode/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/vinaayy06/Leetcode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vinaayy06/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vinaayy06/Leetcode/tree/master/0015-3sum) |
+| [0220-contains-duplicate-iii](https://github.com/vinaayy06/Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,5 +156,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/vinaayy06/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vinaayy06/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/vinaayy06/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/vinaayy06/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
