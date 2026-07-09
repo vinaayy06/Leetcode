@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/vinaayy06/Leetcode/tree/master/0330-patching-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vinaayy06/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vinaayy06/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vinaayy06/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vinaayy06/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vinaayy06/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vinaayy06/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vinaayy06/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/vinaayy06/Leetcode/tree/master/0133-clone-graph) |
 | [0149-max-points-on-a-line](https://github.com/vinaayy06/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vinaayy06/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vinaayy06/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vinaayy06/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Depth-First Search
 |  |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/vinaayy06/Leetcode/tree/master/0133-clone-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vinaayy06/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -188,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vinaayy06/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vinaayy06/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
