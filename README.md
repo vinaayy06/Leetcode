@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/vinaayy06/Leetcode/tree/master/0065-valid-number) |
 | [0214-shortest-palindrome](https://github.com/vinaayy06/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/vinaayy06/Leetcode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/vinaayy06/Leetcode/tree/master/0273-integer-to-english-words) |
