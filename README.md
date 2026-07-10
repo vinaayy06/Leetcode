@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vinaayy06/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vinaayy06/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vinaayy06/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vinaayy06/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vinaayy06/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -32,17 +33,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vinaayy06/Leetcode/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/vinaayy06/Leetcode/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/vinaayy06/Leetcode/tree/master/0321-create-maximum-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vinaayy06/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vinaayy06/Leetcode/tree/master/0015-3sum) |
 | [0220-contains-duplicate-iii](https://github.com/vinaayy06/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vinaayy06/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vinaayy06/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vinaayy06/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vinaayy06/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vinaayy06/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/vinaayy06/Leetcode/tree/master/0133-clone-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vinaayy06/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vinaayy06/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -98,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/vinaayy06/Leetcode/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/vinaayy06/Leetcode/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/vinaayy06/Leetcode/tree/master/0330-patching-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vinaayy06/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/vinaayy06/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vinaayy06/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0312-burst-balloons](https://github.com/vinaayy06/Leetcode/tree/master/0312-burst-balloons) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vinaayy06/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -197,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vinaayy06/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vinaayy06/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
