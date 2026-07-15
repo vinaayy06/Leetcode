@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vinaayy06/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vinaayy06/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/vinaayy06/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vinaayy06/Leetcode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/vinaayy06/Leetcode/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vinaayy06/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vinaayy06/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vinaayy06/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/vinaayy06/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/vinaayy06/Leetcode/tree/master/0065-valid-number) |
 | [0214-shortest-palindrome](https://github.com/vinaayy06/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/vinaayy06/Leetcode/tree/master/0224-basic-calculator) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vinaayy06/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vinaayy06/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vinaayy06/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
