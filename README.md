@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vinaayy06/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/vinaayy06/Leetcode/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/vinaayy06/Leetcode/tree/master/0330-patching-array) |
+| [1260-shift-2d-grid](https://github.com/vinaayy06/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vinaayy06/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vinaayy06/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinaayy06/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/vinaayy06/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1260-shift-2d-grid](https://github.com/vinaayy06/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/vinaayy06/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vinaayy06/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
