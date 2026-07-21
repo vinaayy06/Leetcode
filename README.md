@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/vinaayy06/Leetcode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vinaayy06/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/vinaayy06/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/vinaayy06/Leetcode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/vinaayy06/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0301-remove-invalid-parentheses](https://github.com/vinaayy06/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/vinaayy06/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Rolling Hash
 |  |
 | ------- |
