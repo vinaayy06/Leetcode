@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vinaayy06/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vinaayy06/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/vinaayy06/Leetcode/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/vinaayy06/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/vinaayy06/Leetcode/tree/master/0133-clone-graph) |
 | [0149-max-points-on-a-line](https://github.com/vinaayy06/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1331-rank-transform-of-an-array](https://github.com/vinaayy06/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vinaayy06/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vinaayy06/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/vinaayy06/Leetcode/tree/master/0065-valid-number) |
+| [0076-minimum-window-substring](https://github.com/vinaayy06/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0214-shortest-palindrome](https://github.com/vinaayy06/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/vinaayy06/Leetcode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/vinaayy06/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/vinaayy06/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/vinaayy06/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/vinaayy06/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Bucket Sort
