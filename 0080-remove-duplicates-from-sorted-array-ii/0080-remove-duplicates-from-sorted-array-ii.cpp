@@ -10,6 +10,7 @@ public:
                 k++;
             }
         }
+         if(n<3)return n;
         return k;
     }
 };
