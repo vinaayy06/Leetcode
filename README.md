@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/vinaayy06/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vinaayy06/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vinaayy06/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/vinaayy06/Leetcode/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vinaayy06/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinaayy06/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/vinaayy06/Leetcode/tree/master/2029-stone-game-ix) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vinaayy06/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vinaayy06/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vinaayy06/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/vinaayy06/Leetcode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinaayy06/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/vinaayy06/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vinaayy06/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vinaayy06/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vinaayy06/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vinaayy06/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/vinaayy06/Leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vinaayy06/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vinaayy06/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vinaayy06/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vinaayy06/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vinaayy06/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vinaayy06/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/vinaayy06/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/vinaayy06/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
