@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/vinaayy06/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/vinaayy06/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vinaayy06/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/vinaayy06/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vinaayy06/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/vinaayy06/Leetcode/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vinaayy06/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/vinaayy06/Leetcode/tree/master/0133-clone-graph) |
 | [0149-max-points-on-a-line](https://github.com/vinaayy06/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1331-rank-transform-of-an-array](https://github.com/vinaayy06/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/vinaayy06/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vinaayy06/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vinaayy06/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vinaayy06/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/vinaayy06/Leetcode/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/vinaayy06/Leetcode/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/vinaayy06/Leetcode/tree/master/0330-patching-array) |
+| [1386-cinema-seat-allocation](https://github.com/vinaayy06/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/vinaayy06/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vinaayy06/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vinaayy06/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/vinaayy06/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vinaayy06/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vinaayy06/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vinaayy06/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
